@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitraghavwork" alt="sumitraghavwork" /></a> </p>
 
+- 🌱 I’m currently living in **Gurgaon(Gurugram), Haryana**
+
 - 🌱 I’m currently learning **MySQL, JDBC, LLD, AWS**
 
 - 👨‍💻 All of my projects are available at my Portfolio website:  [https://sumitraghavwork.github.io/](https://sumitraghavwork.github.io/)
